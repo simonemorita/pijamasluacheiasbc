@@ -8,40 +8,63 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "img": "/img/uploads/banner_01livev23.jpg",
+          "link": "",
+          "alt": "",
+          "start": "",
+          "end": "",
+          "mobile_img": ""
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/banner_02luacheiav23.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_03puff.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_04liz.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_05plie.jpg"
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/minibanner01_feminino_inverno22.png",
+          "link": "https://www.pijamasluacheiasbc.com.br/pijama-feminino/?o=4"
+        },
+        {
+          "img": "/img/uploads/minibanner01_menina_inverno22.png",
+          "link": "https://www.pijamasluacheiasbc.com.br/para-meninas-pijamas/?o=4"
+        },
+        {
+          "img": "/img/uploads/minibanner01_menino_inverno22.png",
+          "link": "https://www.pijamasluacheiasbc.com.br/para-meninos-pijamas/?o=4"
+        },
+        {
+          "img": "/img/uploads/minibanner01_masculino_inverno22.png",
+          "link": "https://www.pijamasluacheiasbc.com.br/pijama-masculino/?o=4"
+        }
+      ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
+      "type": "responsive-banner",
+      "img": "/img/uploads/tarja22.png"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
