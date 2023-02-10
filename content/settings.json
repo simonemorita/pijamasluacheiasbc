@@ -1,26 +1,26 @@
 {
-  "store_id": 51355,
-  "name": "pijamasluacheiasbc",
   "domain": "pijamasluacheiasbc.netlify.app",
-  "short_name": "pijamasluacheiasbc",
-  "description": "pijamasluacheiasbc",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#2a336f",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/pijamasluacheiasbc",
+  "logo": "/img/uploads/logo-1-.png",
+  "name": "Lua Cheia São Bernardo do Campo",
+  "short_name": "LUA CHEIA SBC",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/pijamasluacheiasbc",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#c0d1f0",
+  "icon": "/img/uploads/logo-1-.png",
+  "store_id": 51355,
+  "description": "Buscamos oferecer, o que há de mais confortável e bonito. Podendo assim receber visitas inesperadas com um look homewear ou dividir um café-da-manhã na viagem com os amigos e sem preocupação em trocar de roupa com o conforto de um loungewear. Queremos estar presente nos momentos mais especiais de sua vida seja de descanso ou de diversão!",
+  "large_icon": "/img/uploads/logo-1-.png"
 }
