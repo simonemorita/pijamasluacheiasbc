@@ -10,9 +10,14 @@
   },
   "categories_list": {
     "featured": [
-      "/pijamas/?Pijamas"
+      "/maternidade/?Maternidade",
+      "/pijamas/?Pijamas",
+      "/moda-praia/?Moda Praia",
+      "/moda-infantil/?Moda Infantil",
+      "/moda-feminina/?Moda Feminina",
+      "/moda-masculino/?Moda Masculina"
     ],
-    "random": 6,
+    "random": 7,
     "full_width": false
   },
   "desktop_megamenu": false,
