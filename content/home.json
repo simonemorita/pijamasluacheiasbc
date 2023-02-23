@@ -64,7 +64,15 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true
+      "load_more": true,
+      "sort": "news"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 9000
     }
   ]
 }
