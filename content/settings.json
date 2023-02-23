@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#2a336f",
   "theme": {
-    "bootswatch": "_",
-    "custom": "ecom-beauty"
+    "bootswatch": "sandstone",
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/pijamasluacheiasbc",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#555e9b",
+  "secondary_color": "#2a336f",
   "icon": "/img/uploads/logo-1-.png",
   "store_id": 51355,
   "description": "Buscamos oferecer, o que há de mais confortável e bonito. Podendo assim receber visitas inesperadas com um look homewear ou dividir um café-da-manhã na viagem com os amigos e sem preocupação em trocar de roupa com o conforto de um loungewear. Queremos estar presente nos momentos mais especiais de sua vida seja de descanso ou de diversão!",
