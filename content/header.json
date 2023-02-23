@@ -18,11 +18,11 @@
       "/moda-feminina/?Moda Feminina",
       "/moda-masculino/?Moda Masculina"
     ],
-    "random": 2,
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true,
-  "alphabetical_order_submenu": false,
+  "search_input": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
