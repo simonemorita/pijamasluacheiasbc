@@ -5,11 +5,13 @@
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/pijamas/?Pijamas"
+    ],
     "random": 6,
     "full_width": false
   },
