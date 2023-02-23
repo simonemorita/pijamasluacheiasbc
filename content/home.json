@@ -38,6 +38,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/tarja22.png"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -57,10 +61,6 @@
           "link": "https://www.pijamasluacheiasbc.com.br/pijama-masculino/?o=4"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/tarja22.png"
     },
     {
       "type": "dynamic-showcase",
