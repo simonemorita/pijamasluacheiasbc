@@ -2,7 +2,7 @@
   "marketing_stripe": {
     "text": "",
     "link": "",
-    "background": "#2a336c"
+    "background": ""
   },
   "contacts_stripe": {
     "pages": [],
@@ -19,11 +19,11 @@
       "/moda-feminina/?Moda Feminina",
       "/moda-masculino/?Moda Masculina"
     ],
-    "random": 0,
+    "random": 10,
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": false,
+  "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
