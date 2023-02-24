@@ -63,17 +63,6 @@
       ]
     },
     {
-      "type": "brands-carousel",
-      "limit": 40,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 9000
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -81,6 +70,17 @@
       "collection_id": "63f01540f4167e223c93a241:brands:AdereUp:/marca/adereup",
       "title": "AdereUp",
       "autoplay": 7000
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 40,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 9000
     }
   ]
 }
