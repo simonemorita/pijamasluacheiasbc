@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#2a336f",
   "theme": {
-    "bootswatch": "minty",
-    "custom": "clean-gray"
+    "bootswatch": "spacelab",
+    "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#2a336f",
   "repository": "ecomplus-stores/pijamasluacheiasbc",
   "logo": "/img/uploads/logo-1-.png",
   "name": "Lua Cheia São Bernardo do Campo",
@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Ubuntu",
   "favicon": "/img/uploads/faviconoriginal.png",
-  "icons_font": "_",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "secondary_color": "#555e9b",
+  "secondary_color": "#2a336f",
   "icon": "/img/uploads/logo-1-.png",
   "store_id": 51355,
   "description": "Buscamos oferecer, o que há de mais confortável e bonito. Podendo assim receber visitas inesperadas com um look homewear ou dividir um café-da-manhã na viagem com os amigos e sem preocupação em trocar de roupa com o conforto de um loungewear. Queremos estar presente nos momentos mais especiais de sua vida seja de descanso ou de diversão!",
