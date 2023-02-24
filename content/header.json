@@ -19,8 +19,8 @@
       "/moda-feminina/?Moda Feminina",
       "/moda-masculino/?Moda Masculina"
     ],
-    "random": 10,
-    "full_width": false
+    "random": 7,
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
