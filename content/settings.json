@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#2a336f",
   "theme": {
-    "bootswatch": "spacelab",
+    "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -14,9 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Ubuntu",
+  "font_family": "_",
   "favicon": "/img/uploads/faviconoriginal.png",
-  "icons_font": "bootstrap-icons",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#2a336f",
   "icon": "/img/uploads/logo-1-.png",
