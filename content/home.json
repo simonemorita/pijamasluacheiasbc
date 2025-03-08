@@ -39,7 +39,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/tarja22.png"
+      "img": "/img/uploads/tarja22.png",
+      "mobile_img": "/img/uploads/tarja22.png"
     },
     {
       "type": "collection-shelf",
