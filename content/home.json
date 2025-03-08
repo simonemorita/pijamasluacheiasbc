@@ -42,27 +42,6 @@
       "img": "/img/uploads/tarja22.png"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/minibanner01_feminino_inverno22.png",
-          "link": "https://www.pijamasluacheiasbc.com.br/pijama-feminino/?o=4"
-        },
-        {
-          "img": "/img/uploads/minibanner01_menina_inverno22.png",
-          "link": "https://www.pijamasluacheiasbc.com.br/para-meninas-pijamas/?o=4"
-        },
-        {
-          "img": "/img/uploads/minibanner01_menino_inverno22.png",
-          "link": "https://www.pijamasluacheiasbc.com.br/para-meninos-pijamas/?o=4"
-        },
-        {
-          "img": "/img/uploads/minibanner01_masculino_inverno22.png",
-          "link": "https://www.pijamasluacheiasbc.com.br/pijama-masculino/?o=4"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
