@@ -9,7 +9,7 @@
     },
     {
       "type": "document-banner",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "brand-retail",
